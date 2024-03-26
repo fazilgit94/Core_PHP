@@ -3,7 +3,7 @@
 $con = new mysqli("localhost","root","","ecom");
 
 
-
+// hello
 if(isset($_POST['sub']))
 {
    $fname =  $_POST['fnm'];
